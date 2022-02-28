@@ -1,0 +1,132 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The proper and most effectual cure of Popery, both real and mistaken, in the nation</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1705</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91066</idno>
+            <idno type="STC">Wing P3666A</idno>
+            <idno type="STC">ESTC N40249</idno>
+            <idno type="EEBO-CITATION">99895379</idno>
+            <idno type="PROQUEST">99895379</idno>
+            <idno type="VID">152965</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91066)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152965)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2337:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The proper and most effectual cure of Popery, both real and mistaken, in the nation</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1705?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Sometimes attributed to Edward Stephens.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Lambeth Palace Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature --  Early works to 1800.</term>
+               <term>Anti-Catholicism --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:152965:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 22 -->
+            <head>The Proper and moſt Effectual CURE of POPERY, Both Real and Miſtaken, In this Nation.</head>
+            <p>IT is certain and apparent to all conſidering People, that the greateſt <hi>Troubles</hi> with which this Nation, and indeed moſt part of <hi>Europe,</hi> have been afflicted for more than 150 Years laſt paſt, have proceeded from, or been promoted by, the <hi>Controverſies</hi> concerning ſuch Matters of Religion as are commonly called <hi>Popery.</hi> And it is an certain and apparent, that all thoſe Controver<g ref="char:EOLhyphen"/>ſies aroſe from, or were occaſioned by the Uſurpations, Corruptions, and Scandals of the <hi>Papacy</hi> and <hi>Papal Faction;</hi> of which many of the moſt learned and truly religious Per<g ref="char:EOLhyphen"/>ſons in all Nations complained long before. So that it can<g ref="char:EOLhyphen"/>not be denied that there was great need of a <hi>Reformation,</hi> when what is now ſo call'd was begun. And it is alſo cer<g ref="char:EOLhyphen"/>tain, that tho' <hi>a Free General Council</hi> was earneſtly deſired, both by Princes and People, by Laity and Clergy, for an orderly Reformation, it was more than 20 Years delayed before any Seſſion could be had; and then was continued and kept on foot for 18 Years more before it was conclud<g ref="char:EOLhyphen"/>ed, and ſo managed the while, that inſtead of reforming or compoſing Differences, much of the Matters complain'd of were eſtabliſhed, and the Differences made irreconcile<g ref="char:EOLhyphen"/>able, while the Authority of that Council is maintained; a Council, which conſiſted but of 270 Prelates in all, in all
+<pb n="2" facs="tcp:152965:2"/>
+               <!-- PDF PAGE 23 -->that time; and of them, 187 <hi>Italians,</hi> moſt very ignorant, and but 83, not a third part, of all other Nations; and ſome only Titular, and mere Agents for the Papacy; di<g ref="char:EOLhyphen"/>vers indigent Penſioners to the Pope; and but part, and no great part of thoſe at moſt Seſſions. Such was this Free General Council.</p>
+            <p>But it is as certain and apparent again on the other ſide, that that neceſſary Work of <hi>Reformation</hi> was ſo <hi>diſorderly</hi> managed, that it remains a very <hi>imperfect</hi> Work, and not without much Deformation, in all Parts, where it has been promoted, to this day. And tho' the Fault of this may in great meaſure be juſtly chargeable upon the Perverſeneſs and Obſtinacy of the Papal Faction; yet ſo it is, and is appa<g ref="char:EOLhyphen"/>rently ſo, even by the Differences and Contentions which are continued, or rather, daily increaſed among all the Pre<g ref="char:EOLhyphen"/>tenders to Reformation; tho' all are ready to join againſt the Papiſts, as their Common Enemy. So that theſe two Parties are like <hi>two Maſtiffs</hi> worrying one another, and nei<g ref="char:EOLhyphen"/>ther can get the Victory, becauſe equally match'd by reaſon of <hi>Faults</hi> on both ſides, and ſomething of <hi>Truth</hi> on each ſide, which ſupports them. And neither will be perſwaded to ſee, or if they do ſee, to reform what is amiſs on their ſide, that Truth alone might prevail.</p>
+            <p>The <hi>Faults</hi> are, on the one ſide, Papal Corruptions and Innovations maintained as Catholick Truth, which is <hi>Real Popery</hi> diſtinct from what is truly Catholick: on the other Catholick 'Truth oppoſed as Popery, which is <hi>Miſtaken Po<g ref="char:EOLhyphen"/>pery:</hi> and the <hi>irreſiſtible Truth</hi> between them both, what is truly <hi>Catholick.</hi> This neither can withſtand; and there<g ref="char:EOLhyphen"/>fore ſo far as it is retained, is the <hi>Strength</hi> of that Party againſt the other: and where it is <hi>intirely retained</hi> with<g ref="char:EOLhyphen"/>out Mixture, tho' by never ſo ſmall a Party, cannot be re<g ref="char:EOLhyphen"/>ſiſted with any Evidence of Truth or ſound Reaſon, or op<g ref="char:EOLhyphen"/>poſed with any thing but Force and Violence, or Falſhood, Lies and Calumnies.</p>
+            <pb n="3" facs="tcp:152965:2"/>
+            <!-- PDF PAGE 23 -->
+            <p>Of this I my ſelf, by the Grace and ſecret Conduct of God, have had conſiderable <hi>Experience,</hi> and given a ſenſible <hi>Experiment,</hi> and ſuch a <hi>Manifeſtation</hi> of his Truth, againſt the Corruptions on each ſide, as neither have been able to gainſay or reſiſt. The one ſide have not been able to reſiſt the Power of Truth, but with moſt ſhameful Lies and Ca<g ref="char:EOLhyphen"/>lumnies, one of the greateſt Evidences of a powerful Con<g ref="char:EOLhyphen"/>viction; nor the other to maintain or defend their own Cauſe, by true Catholick Principles, or other than falſe and ſophiſtical Arguments, as I have already in part made ap<g ref="char:EOLhyphen"/>pear in my <hi>True Account,</hi> &amp;c. and ſhall more fully to un<g ref="char:EOLhyphen"/>deniable Conviction, if I may have that Encouragement which is but reaſonable and neceſſary.</p>
+            <p>It is true, violent <hi>Prejudice againſt Miſtaken Popery</hi> hath brought forth no leſs Miſchief, Scandal, Shame and Con<g ref="char:EOLhyphen"/>fuſion in theſe Nations, than real Popery hath in other parts of <hi>Europe.</hi> But it is <hi>Real Popery</hi> continued amongſt us, which has been the Original and is the continued Incentive of that Prejudice and Jealouſie, which hath produced theſe violent Proceedings. And therefore tho' a juſt and com<g ref="char:EOLhyphen"/>pleat Cure of this Prejudice againſt Miſtaken Popery would of it ſelf be the moſt effectual Cure of the Real, not only in theſe Nations, but in our Neighbours, even <hi>France</hi> it ſelf; yet ſince that is hard to be removed, while the other re<g ref="char:EOLhyphen"/>mains, there is a Neceſſity that the Application be more effectually to that, of Real Popery, and that compleatly effected, will of it ſelf allay the Prejudice, and facilitate the Cure of the other alſo.</p>
+            <p>This Neceſſity is brought upon us by <hi>the Craft and Po<g ref="char:EOLhyphen"/>licy of the Papal Faction</hi> and their Agents, who know very well that if thoſe Faults on our ſide were healed, they ſhould have nothing againſt us, nor be able to withſtand ſo com<g ref="char:EOLhyphen"/>pleat and prevalent a Teſtimony againſt them. And this is the true reaſon why divers Zealotes for the Roman Fa<g ref="char:EOLhyphen"/>ction, who were ſenſible of this Secret, look'd upon King
+<pb n="4" facs="tcp:152965:3"/>
+               <!-- PDF PAGE 24 -->
+               <hi>Charles</hi> I. and Arch-Biſhop <hi>Laud,</hi> and others, as their grea<g ref="char:EOLhyphen"/>teſt Enemies; becauſe they were ſenſible of the Miſtake, and deſir'd and endeavour'd, as far as the Madneſs of the People would permit, to have it rectified; which theſe Zealotes well know would have greatly indanger'd their Cauſe, by leaving them nothing ſolid and defenſible on their ſide to ſupport it. And this was not the leaſt part of the Project of <hi>the Repreſenter,</hi> my Viſitant, in his pretended <hi>Letter from a Diſſenter to the Divines of the Church of</hi> Eng<g ref="char:EOLhyphen"/>land, <hi>in order to a <g ref="char:V">Ʋ</g>nion,</hi> who indeavour'd thereby not only to gratifie his own <hi>Private Revenge,</hi> by repreſenting the learned Divine of the Church of <hi>England,</hi> who had de<g ref="char:EOLhyphen"/>tected and anſwered his ſtolen Wares, as a Papiſt in Diſguiſe, but to promote the publick Service of the Faction, by re<g ref="char:EOLhyphen"/>viving and exciting the old Jealouſie and Prejudice, which had before been ſo ſerviceable to it. And for the ſame reaſon it was that divers of them have treated me, not as a Friend, but a moſt dangerous Perſon to them. And this Conſideration ought to move all ſerious Antipapiſts to be<g ref="char:EOLhyphen"/>ware of this Prejudice, leſt they inconſiderately promote their Deſigns, while they think to oppoſe them, as Mr. <hi>Baxter</hi> has rightly obſerved they often do.</p>
+            <p>The true Reaſon,<hi>Why all the Means hitherto uſed have been no more effectual,</hi> is, becauſe they have been too vio<g ref="char:EOLhyphen"/>lent and unnatural; and not ſo skilfully apply'd as they ought to haven been. Their Nobility and Gentry, and the reſt of the Laity, are Perſons of as much Senſe and Reaſon, and Honour and Virtue, as others: And if there was but opened a fair Retreat to them; and then the Deceitfulneſs of their Principles ſufficiently explain'd, we ſhould then find them as willing to be eaſed of the Burthens, as the Nation of the Trouble of the Emiſſaries. And <hi>two things</hi> very rea<g ref="char:EOLhyphen"/>ſonable and eaſie to be granted, would inable any Perſon well qualified to do this Work effectually; of which an Account will be ready to be given to whom it is proper, of deſired.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
